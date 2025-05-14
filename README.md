@@ -10,7 +10,7 @@ This dashboard provides a focused financial analysis of a SaaS company, tracking
 
 ## Tasks Performed
 
- 🔺Data Collection: Gathered sales data from multiple sources for analysis.
+ 🔺Data Collection: Gathered finacial data from onyx dataDNA  dataset.
 
  🔺Data Processing: Cleaned and organized the data, removing duplicates, and standardizing formats.
 
