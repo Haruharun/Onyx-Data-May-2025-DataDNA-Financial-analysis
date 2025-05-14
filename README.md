@@ -1,5 +1,5 @@
 # Financial Dashboard
-### Dashboard link : https://app.powerbi.com/reportEmbed?reportId=9185f581-56e9-4af4-9297-a6d541ae2c7f&autoAuth=true&ctid=f36f7acf-1778-4d3c-a997-d110f0c48dbf
+### live Dashboard link : https://app.powerbi.com/reportEmbed?reportId=8de02b04-a4df-4045-96ae-93db3e820717&autoAuth=true&ctid=f36f7acf-1778-4d3c-a997-d110f0c48dbf
 
 ## Project Overview
  
@@ -20,37 +20,36 @@ This dashboard provides a detailed healthcare analysis designed to visualize and
  🔺Analysis: Analyzed the data to identify key trends, patterns, and insights.
 
 ## Key Features
-✅ Interactive Filters: Users can slice data by Gender, Blood Type, Age Group, Test Type, and Medication for tailored insights.
+ 💡 Revenue Performance
+✅ Highest revenue month: July (1.9M) – Peak earnings, possibly due to seasonal demand.
+✅ Lowest revenue month: September (1.2M) – Revenue dropped below budget expectations.
+✅ Overall trend: Revenue remains strong, with slight fluctuations across months.
+✅ Positive variance: May (+0.2M) – Higher-than-expected revenue performance.
+✅ Negative variance: March (-0.2M) – Revenue fell below projections, requiring further analysis.
+✅ Total Actual Expenses: 19M (Up by 13M from Last Year)
+✅ Total Budgeted Expenses: 20M (Up by 11M from Last Year)
+✅ Total Actual Revenue: 18M (Up by 13M from Last Year)
+✅ Total Budgeted Revenue: 17M (Up by 12M from Last Year)
+✅ VAT Available: 5M (Up by 4M from Last Year)
 
-✅ Comprehensive Visuals: A mix of pie charts, bar graphs, and stacked bar charts makes the data intuitive and easy to comprehend.
-
-✅ Highlighted Metrics: Key numbers like total billing ($1.42bn), average admission length (16 days), and patient count (56K) are clearly emphasized.
-
-✅ Comparative Analytics: Displays comparisons across demographics, medical conditions, and hospital performances.
-
-
-✅ User-Focused Design: The dashboard is structured for clarity, professionalism, and ease of navigation.
+💡 Expense Management
+✅ Total Actual Expenses: 19M (Up by 13M from Last Year)
+Total Budgeted Expenses: 20M (Up by 11M from Last Year)
+✅ Categories with highest spending: Certain departments show excessive costs beyond projections.
+✅ Vendor payments: A few vendors receive large payouts, which might need review for optimization.
 
 
 
-## Key Insights
 
-✅ Admissions by Gender: Females account for the highest admissions at 50% (28K), followed by males at 40% (22K), and others at 10% (6K).
+## 💡 Key Profitability Takeaway
+✅ Best Profit Month: July (+0.4M profit) – Peak revenue with controlled expenses.
+ ⚠️ Worst Month: March (-0.2M loss) – Expenses exceeded revenue.
+Key Takeaways
 
-✅ Prevalent Blood Types: Blood type A+ is most common (19K patients), with O+ coming second (14K).
+✅ Positive budget variance: May (+0.2M) indicating strong financial performance.
 
-✅ Condition Lengths: Hypertension and Arthritis show the longest average admission durations at 16 days each, slightly longer than Diabetes at 15 days.
 
-✅ Most Diagnosed Conditions: Diabetes and Hypertension lead in diagnoses (14K each), trailed by Obesity (13K).
-
-✅ Treatment Costs: Diabetes incurs the highest average billing, followed by Cancer and Hypertension.
-
-✅ Frequently Prescribed Conditions: Diabetes and Hypertension again top the list, with each prescribed 14K times.
-
-✅ Top Hospitals: Houston Methodist handles the most patients (20K), ahead of Johns Hopkins (11K).
-
-✅ Most Prescribed Medication: Lipitor leads with 11,140 prescriptions, closely followed by Aspirin at 11,094.
 
  
 
-![Healthcare Dashboard](https://github.com/Haruharun/Healthcare/blob/34170031aff56e7e6fb7d3fb4c950a354f51dbfd/Screenshot%202025-04-24%20114448.png)
+![Financial Dashboard](https://github.com/Haruharun/onyx-financial-dataset-challenge/blob/f3aa2417a541246c3b7abb0d432aadace9a12c69/Dashboard%20overview.png)
